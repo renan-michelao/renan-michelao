@@ -29,7 +29,7 @@
 <!-- ========================================== -->
 <!-- SEÇÃO SOBRE MIM                            -->
 <!-- ========================================== -->
-## 🤖 <font color="#00f2fe">// USER_PROFILE.sys</font>
+## <font color="#00f2fe">// USER_PROFILE.sys</font>
 
 ```yaml
 identity:
@@ -52,16 +52,17 @@ status:
 <!-- ========================================== -->
 <!-- TECH STACK & FERRAMENTAS                  -->
 <!-- ========================================== -->
-## ⚡ <font color="#00f2fe">// TECH_MATRIX.dll</font>
+## <font color="#00f2fe">// Technologies.dll</font>
 
 ### 🛠️ **Linguagens & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/SFML-8CC63F?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML"/>
 </p>
 
-### 💻 **Ambiente & Ferramentas**
+### **Ambiente & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/Linux_Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -75,7 +76,7 @@ status:
 
 ---
 
-## 🖥️ // CURRENT_OBJECTIVES.sh
+## // CURRENT_OBJECTIVES.sh
 
 ```bash
 #!/bin/bash
@@ -83,6 +84,8 @@ status:
 # Executando diretrizes prioritárias
 echo "[1] Aprofundamento em arquiteturas distribuídas e concorrência."
 echo "[2] Desenvolvimento de soluções eficientes e escaláveis."
+echo "[3] Aprofundamento em desenvolvimento para hardware e técnicas de robótica."
+echo "[4] Membro da equipe de Robótica da UFSCar: RED DRAGONS 
 
 status_check --all
 # STATUS: ALL SYSTEMS GO!
@@ -91,18 +94,25 @@ status_check --all
 
 ---
 
-## 🏆 // SYSTEM_ACHIEVEMENTS.log
 
 ---
 
-## 📊 // TELEMETRY_DATA.stats
 
 ---
 
-## 🐍 // MATRIX_GRID_CONSUMPTION.gif
+<!-- ========================================== -->
+<!-- SNAKE CONTRIBUTION ANIMATION               -->
+<!-- ========================================== -->
+##  <font color="#00f2fe">// Contributions.gif</font>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renan-michelao/renan-michelao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renan-michelao/renan-michelao/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renan-michelao/renan-michelao/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
-
-## 📡 // ESTABLISH_CONNECTION.link
 
 ---
