@@ -3,7 +3,7 @@
 <!-- HEADER / BANNER FUTURISTA (CAPSULE RENDER) -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=SYSTEM%20ONLINE%20&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Renan%20Michelão%20&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
 </div>
 
 <!-- ========================================== -->
