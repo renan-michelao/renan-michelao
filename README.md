@@ -11,7 +11,7 @@
 <!-- ========================================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=Initializing+Neural+Interface...;Software+Engineer+%7C+Systems+Architect;Building+the+Future+with+Code;Welcome+to+my+Digital+Core." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=Initializing+Interface...;Software+Engineer+Student;Building+the+Future+with+Code;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,9 +34,9 @@
 ```yaml
 identity:
   name: "Renan Cavalcanti Michelão"
-  role: "Software Developer & Computer Scientist"
+  role: "Software Developer & Computer Scientist Student"
   location: "São Carlos, Brazil"
-  core_focus: ["Low-Level Programming", "Software Engineering", "Linux Systems"]
+  core_focus: ["Low-Level Programming", "Software Engineering", "Linux Systems", "Robots Developer"]
 
 status:
   current_mode: "Continuous Improvement & Innovation"
@@ -60,13 +60,19 @@ status:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/SFML-8CC63F?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML"/>
+  
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+
 </p>
 
 ### **Ambiente & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/Linux_Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
@@ -85,7 +91,7 @@ status:
 echo "[1] Aprofundamento em arquiteturas distribuídas e concorrência."
 echo "[2] Desenvolvimento de soluções eficientes e escaláveis."
 echo "[3] Aprofundamento em desenvolvimento para hardware e técnicas de robótica."
-echo "[4] Membro da equipe de Robótica da UFSCar: RED DRAGONS 
+echo "[4] Membro da equipe de Robótica da UFSCar: @RED DRAGONS 
 
 status_check --all
 # STATUS: ALL SYSTEMS GO!
