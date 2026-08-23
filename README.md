@@ -34,7 +34,7 @@
 ```yaml
 identity:
   name: "Renan Cavalcanti Michelão"
-  role: "Software Developer & Computer Scientist Student"
+  role: "Software Developer & Computer Science Student"
   location: "São Carlos, Brazil"
   core_focus: ["Low-Level Programming", "Software Engineering", "Linux Systems", "Robots Developer"]
 
