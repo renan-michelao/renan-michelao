@@ -35,8 +35,9 @@
 identity:
   name: "Renan Cavalcanti Michelão"
   role: "Software Developer & Computer Science Student"
+  extension: "Membro da @Red Dragons"
   location: "São Carlos, Brazil"
-  core_focus: ["Low-Level Programming", "Software Engineering", "Linux Systems", "Robots Developer"]
+  core_focus: ["Low-Level Programming", "Software Engineering", "Linux Systems", "Robots Programming"]
 
 status:
   current_mode: "Continuous Improvement & Innovation"
@@ -44,8 +45,6 @@ status:
   motto: "Code the future before it codes you."
 
 ```
-
-> **`[SYS_LOG]`**: Apaixonado por desenvolvimento de sistemas eficientes, arquitetura de software e personalização. Sempre construindo pontes entre o desempenho e a estética visual.
 
 ---
 
@@ -76,32 +75,17 @@ status:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
-
-<!-- ## 🛸 // ACTIVE_PROJECTS.exe -->
-
----
-
-## // CURRENT_OBJECTIVES.sh
-
-```bash
-#!/bin/bash
-
-# Executando diretrizes prioritárias
-echo "[1] Aprofundamento em arquiteturas distribuídas e concorrência."
-echo "[2] Desenvolvimento de soluções eficientes e escaláveis."
-echo "[3] Aprofundamento em desenvolvimento para hardware e técnicas de robótica."
-echo "[4] Membro da equipe de Robótica da UFSCar: @RED DRAGONS 
-
-status_check --all
-# STATUS: ALL SYSTEMS GO!
-
-```
 
 ---
 
 
----
+
+
+
+
+
+
+
 
 
 ---
