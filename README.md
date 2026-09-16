@@ -51,7 +51,7 @@ status:
 <!-- ========================================== -->
 <!-- TECH STACK & FERRAMENTAS                  -->
 <!-- ========================================== -->
-## <font color="#00f2fe">// Technologies.dll</font>
+## <font color="#00f2fe">// Technologies.config</font>
 
 ### 🛠️ **Linguagens & Frameworks**
 <p>
